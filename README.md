@@ -96,6 +96,7 @@ print(set_functions(choice, create_sets()))
 ```
 
 Результат:
+
 ![объединение](https://github.com/python-advance/sem5-collections-arinasaf11/blob/master/VSR/1.3/union.jpg?raw=true)
 
 ![пересечение](https://github.com/python-advance/sem5-collections-arinasaf11/blob/master/VSR/1.3/intersection.jpg?raw=true)
